@@ -1,4 +1,6 @@
 # processor CSS
+**project was implemented in March and April 2023**
+
 
 This program was writtem as a project for Algorithms and Data Structures course. It is an implementation of simple engine for processing CSS blocks as a console application.  
 
@@ -72,5 +74,3 @@ h1,E,color == #0066CB
 ? == 1
 ? == 2
 ```
-
-Project was realized in March and April 2023
